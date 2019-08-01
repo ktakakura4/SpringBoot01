@@ -12,7 +12,6 @@ import org.springframework.web.bind.annotation.PostMapping;
 public class SignupController{
 
     private Map<String, String> radioMarriage;
-    private Map<String, String> radioMarriage2;
 
     private Map<String, String> initRadioMarrige(){
 
