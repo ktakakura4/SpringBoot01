@@ -1,10 +1,7 @@
 package com.example.demo.login.domain.model;
 
-import com.sun.xml.internal.ws.api.ha.StickyFeature;
 import lombok.Data;
 import org.springframework.format.annotation.DateTimeFormat;
-
-import java.security.SecureRandom;
 
 @Data
 public class SignupForm {
